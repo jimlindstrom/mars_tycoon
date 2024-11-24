@@ -1,0 +1,13 @@
+#miniMap {
+  position: absolute;
+  right: 16px;
+  bottom: 16px;
+  border: 1px solid #555;
+  background: black;
+  box-shadow: 5px 5px 5px rgba(1,1,1,0.5);
+}
+
+#miniMapViewPort {
+  position: relative;
+  border: 1px solid #e8e8e8;
+}
